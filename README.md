@@ -10,9 +10,9 @@
 <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" src="" />
 
-
  </div>
 
+##
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas-Carlos&show_icons=true&theme=onedark)
 
 
