@@ -1,7 +1,7 @@
 ### Hi there, i'm Jonas Carlos! 👋
 
 ### About me
- - 💻 Software engineering student at Unb - Universidade de Brasília
+ - 💻 Software engineering student at Unb - University de Brasília
 
  ### Technologies that I use in my daily life
  <div style="display: inline_block"><br/>
