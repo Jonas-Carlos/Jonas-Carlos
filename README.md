@@ -7,6 +7,8 @@
 
 ## My Techs
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
